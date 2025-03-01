@@ -351,18 +351,24 @@ footer {
   padding: 8vw;
   background-color: #101c32;
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
+  justify-content: center; /* Align items horizontally in the center */
+  align-items: center; /* Align items vertically in the center */
   flex-wrap: wrap;
+  text-align: center; /* Center-align the text inside footer */
 }
+
 footer #footer .footer-col {
   padding-bottom: 40px;
+  width: 100%; /* Allow footer columns to be flexible */
+  max-width: 300px; /* Optional: Adjust the max-width for a neat layout */
 }
+
 footer h3 {
   color: #fff;
   font-weight: 600;
   padding-bottom: 20px;
 }
+
 footer li {
   list-style: none;
   color: #7b838a;
@@ -371,23 +377,31 @@ footer li {
   cursor: pointer;
   transition: 0.3s ease;
 }
+
 footer li:hover {
   color: #fff;
 }
+
 footer .copyright {
   margin-top: 20px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center; /* Center the copyright section */
   align-items: center;
   width: 100%;
   flex-wrap: wrap;
 }
+
 footer .copyright p {
   color: #ffffff;
 }
+
 footer .copyright .pro-links {
   margin-top: 0px;
+  display: flex;
+  justify-content: center; /* Center the social media icons */
+  gap: 15px; /* Add space between icons */
 }
+
 footer .copyright .pro-links .i {
   background-color: #5f7185;
   color: #fff;
@@ -397,10 +411,13 @@ footer .copyright .pro-links .i {
   align-items: center;
   justify-content: center;
 }
+
 footer .copyright .pro-links .i:hover {
   background-color: #fdc93b;
   color: #2c2c2c;
 }
+
+
 .addCourse-form {
   display: flex;
   flex-direction: column;

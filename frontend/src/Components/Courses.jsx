@@ -49,7 +49,7 @@ function Courses() {
      };
       axios.post('http://localhost:8080/api/learning', enrollRequest)
           .then((response) => {
-            if(response.data === "Enrolled successfully"){
+            if(response.data == "Enrolled successfully"){
               toast.success('Course Enrolled successfully', {
                 position: 'top-right',
                 autoClose: 1000,
