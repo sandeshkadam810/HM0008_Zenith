@@ -1,6 +1,6 @@
 # HM0008_Zenith
 HackMatrix_PS002 Problem Statement Solution
-MAPS - Learning Management System (LMS)
+MAPS - Modular Advanced Platform for Students
 
 # Problem Statement
 
