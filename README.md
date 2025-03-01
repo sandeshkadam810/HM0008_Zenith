@@ -44,19 +44,19 @@ Interactive learning experience with assessments.
 
 Global quiz matchmaking based on learned concepts, offering gamified rewards.
 
-User Management:
+# User Management:
 
 User registration and login functionality.
 
 User profiles with customizable information.
 
-Course Management:
+# Course Management:
 
 Admins can add, edit, and manage courses.
 
 Course details include name, instructor, and description.
 
-Assessments & Progress Tracking:
+# Assessments & Progress Tracking:
 
 Users can take quizzes to assess knowledge.
 
@@ -64,25 +64,25 @@ Admins can create and manage quiz questions.
 
 Visual representation of progress for users.
 
-Certificate Generation:
+# Certificate Generation:
 
 Automatic certificates upon course completion.
 
 Personalized with user details.
 
-Discussion Forum:
+# Discussion Forum:
 
 Course-specific discussion forums.
 
 Interaction between students and instructors.
 
-Admin Dashboard:
+# Admin Dashboard:
 
 Manage courses and assessments.
 
 Track students, courses, and enrollments.
 
-Technologies Used
+# Technologies Used
 
 Frontend:
 
@@ -96,13 +96,13 @@ Spring Boot
 
 RESTful API architecture
 
-Database:
+# Database:
 
 MySQL
 
 Seven tables: course, learning, progress, discussion, feedback, question, user, assessment
 
-Setup
+# Setup
 
 Clone the repository:
 
@@ -110,7 +110,7 @@ git clone https://github.com/PATMESH/Learning-Management-System.git
 
 Navigate to the frontend and backend folders and follow their respective setup instructions.
 
-Run the application:
+# Run the application:
 
 Frontend (React.js): http://localhost:3000
 
@@ -118,7 +118,7 @@ Backend (Spring Boot): http://localhost:8080
 
 Set up MySQL database and configure the connection.
 
-Usage
+# Usage
 
 Visit the application on http://localhost:3000.
 
@@ -126,6 +126,6 @@ Admins can manage courses, create assessments, and track student progress via th
 
 Students can register, log in, enroll in courses, complete assessments, and earn certificates.
 
-Contributing
+# Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project. Your feedback is appreciated.
