@@ -89,7 +89,7 @@ Backend:
 # Setup
 
 * Clone the repository:
-git clone https://github.com/PATMESH/Learning-Management-System.git
+git clone 
 * Navigate to the frontend and backend folders and follow their respective setup instructions.
 
 # Run the application:
