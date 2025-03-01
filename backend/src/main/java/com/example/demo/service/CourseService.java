@@ -32,16 +32,14 @@ public Course updateCourse(Long id, Course updatedCourse) {
         existingCourse.setCourseName(updatedCourse.getCourseName());
         existingCourse.setDescription(updatedCourse.getDescription());
         existingCourse.setPhoto(updatedCourse.getPhoto());
-<<<<<<< HEAD
-        existingCourse.setPrice(updatedCourse.getPrice());
-=======
->>>>>>> 8e65c9618247c3790c0884c32a350e98bca5f9dc
+        existingCourse.setPrice(updatedCourse.getPrice());  // Keep this if it's needed
         existingCourse.setTutor(updatedCourse.getTutor());
         existingCourse.setVideo(updatedCourse.getVideo());
         return courseRepository.save(existingCourse);
     }
     return null;
 }
+
 
 public void deleteCourse(Long id) {
     courseRepository.deleteById(id);
