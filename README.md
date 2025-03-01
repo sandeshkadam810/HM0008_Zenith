@@ -8,11 +8,15 @@ In today's digital era, online learning has become a necessity. However, many pl
 
 # Understanding the Problem Statement
 
-Many online learning platforms do not offer a structured way to track student progress.
-Students lack interactive learning materials and assessments to reinforce their knowledge.
-There is no global competitive element that motivates students to engage in quizzes and compare their learning with peers.
-Admins need an intuitive dashboard to manage courses, assessments, and track student performance effectively.
-
+* Many online learning platforms do not offer a structured way to track student progress.
+* Students lack interactive learning materials and assessments to reinforce their knowledge.
+* There is no global competitive element that motivates students to engage in quizzes and compare their learning with peers.
+* Admins need an intuitive dashboard to manage courses, assessments, and track student performance effectively.
+* Many online learning platforms do not offer a structured way to track student progress.
+* Students lack interactive learning materials and assessments to reinforce their knowledge.
+* There is no global competitive element that motivates students to engage in quizzes and compare their learning with peers.
+* Admins need an intuitive dashboard to manage courses, assessments, and track student performance effectively.
+  
 # Objective
 
 Develop an interactive learning platform where students can access courses, lessons, and quizzes.
