@@ -81,19 +81,12 @@ The objective is to create an interactive educational platform that not only hel
 
 ## Learnings:
 
-## Course Learning:
+## Course Progressg:
 
 ## Assessment:
 
 ## Certificate:
 
-## Dashboard:
-
-## Add Course:
-
-## Edit Course:
-
-## Add Assessment Questions:
 
 # Deployed Url
 
