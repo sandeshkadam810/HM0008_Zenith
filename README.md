@@ -113,8 +113,8 @@ The objective is to create an interactive educational platform that not only hel
 
 # Video Url
 
-Link to Demo Video
+[Link to Demo Video](https://youtu.be/11vNBnBSUEw)
 
 # Remarks
 
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+The global quiz matchmaking feature is currently under development. It will allow users to select a quiz topic and enter a waiting queue, where they will be automatically matched with another user who has chosen the same topic. Once matched, a quiz will be dynamically generated using the Gemini API, and both users will compete in real time to earn points. This system aims to enhance engagement through interactive learning and gamified rewards.
