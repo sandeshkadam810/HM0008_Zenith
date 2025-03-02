@@ -6,92 +6,92 @@ HackMatrix_PS002 Problem Statement: Students often face challenges in finding re
 In today's digital era, online learning has become a necessity. However, many platforms lack effective progress tracking, interactive learning, and gamification elements that keep students engaged. The aim of MAPS - Modular Advanced Platform for Students is to provide a comprehensive platform where students can learn, track their progress, take quizzes, and compete globally in a gamified environment.
  
 
-## Features
+# Features
 
-# Student Platform:
+## Student Platform:
 
 * Track progress, lessons, and quizzes.
 * Interactive learning experience with assessments.
 * Global quiz matchmaking based on learned concepts, offering gamified rewards.
 
-# User Management:
+## User Management:
 
 * User registration and login functionality.
 * User profiles with customizable information.
 
-# Course Management:
+## Course Management:
 
 * Course details include name, instructor, and description.
 
-# Assessments & Progress Tracking:
+## Assessments & Progress Tracking:
 
 * Users can take quizzes to assess knowledge.
 * Visual representation of progress for users.
 
-# Certificate Generation:
+## Certificate Generation:
 
 * Automatic certificates upon course completion.
 * Personalized with user details.
 
-# Discussion Forum:
+## Discussion Forum:
 
 * Course-specific discussion forums.
 
-# Gamified Quiz Matchmaking: 
+## Gamified Quiz Matchmaking: 
 * Matches students with global peers based on topics they have learned, encouraging competitive learning and engagement through rewards 
 (under production).
 
-## Technologies Used
+# Technologies Used
 
-# Frontend:
+## Frontend:
 
 * React.js
 * Styled with CSS
 
-# Backend:
+## Backend:
 
 * Spring Boot
 * RESTful API architecture
 
-# Database:
+## Database:
 
 * MySQL
 * Seven tables: course, learning, progress, discussion, feedback, question, user, assessment
 
 ## Screenshots
 
-# Login:
+## Login:
 
-# Register:
+## Register:
 
-# Courses:
+## Courses:
 
-# Profile:
+## Profile:
 
-# Learnings:
+## Learnings:
 
-# Course Learning:
+## Course Learning:
 
-# Assessment:
+## Assessment:
 
-# Certificate:
+## Certificate:
 
-# Dashboard:
+## Dashboard:
 
-# Add Course:
+## Add Course:
 
-# Edit Course:
+## Edit Course:
 
-# Add Assessment Questions:
+## Add Assessment Questions:
 
-## Deployed Url
+# Deployed Url
 
 Link to Deployed Solution
 
-## Video Url
+# Video Url
 
 Link to Demo Video
 
-## Remarks
+# Remarks
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
