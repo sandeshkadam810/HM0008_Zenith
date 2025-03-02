@@ -1,31 +1,10 @@
 # HM0008_Zenith
-HackMatrix_PS002 Problem Statement Solution
-MAPS - Modular Advanced Platform for Students
+HackMatrix_PS002 Problem Statement: Students often face challenges in finding relevant job opportunities and managing their application process efficiently. Developing a platform with a personalized dashboard for both students and admins streamlines the job search and application process. Students can create detailed profiles and upload resumes, enhancing their visibility to recruiters. Admins can post opportunities with specific keywords for better searchability. The platform also notifies students about the latest and most relevant opportunities based on their profiles. The objective is to design a user-friendly job portal that simplifies opportunity discovery and application management for students.
 
 # Problem Statement
 
 In today's digital era, online learning has become a necessity. However, many platforms lack effective progress tracking, interactive learning, and gamification elements that keep students engaged. The aim of MAPS - Modular Advanced Platform for Students is to provide a comprehensive platform where students can learn, track their progress, take quizzes, and compete globally in a gamified environment.
-
-# Understanding the Problem Statement
-
-* Many online learning platforms do not offer a structured way to track student progress.
-* Students lack interactive learning materials and assessments to reinforce their knowledge.
-* There is no global competitive element that motivates students to engage in quizzes and compare their learning with peers.
-* Many online learning platforms do not offer a structured way to track student progress.
-* Students lack interactive learning materials and assessments to reinforce their knowledge.
-* There is no global competitive element that motivates students to engage in quizzes and compare their learning with peers.
-  
-# Objective
-
-* Develop an interactive learning platform where students can access courses, lessons, and quizzes.
-* Provide progress tracking to help students visualize their learning journey.
-* Enable global quiz matchmaking where students compete with peers based on their knowledge.
-* Automate certificate generation upon course completion.
-* Implement a discussion forum for students and instructors to collaborate.
-
-# Overview
-
-MAPS is a Modular Advanced Platform for Students designed for students to access courses, take quizzes, track their progress, and engage in a gamified quiz matchmaking system. 
+ 
 
 # Features
 
@@ -58,15 +37,18 @@ MAPS is a Modular Advanced Platform for Students designed for students to access
 
 * Course-specific discussion forums.
 
+# Gamified Quiz Matchmaking: 
+* Matches students with global peers based on topics they have learned, encouraging competitive learning and engagement through rewards 
+(under production).
 
-# Technologies Used
+## Technologies Used
 
-Frontend:
+# Frontend:
 
 * React.js
 * Styled with CSS
 
-Backend:
+# Backend:
 
 * Spring Boot
 * RESTful API architecture
@@ -76,20 +58,40 @@ Backend:
 * MySQL
 * Seven tables: course, learning, progress, discussion, feedback, question, user, assessment
 
-# Setup
+## Screenshots
 
-* Clone the repository:
-git clone 
-* Navigate to the frontend and backend folders and follow their respective setup instructions.
+# Login:
 
-# Run the application:
+# Register:
 
-* Frontend (React.js): http://localhost:3000
-* Backend (Spring Boot): http://localhost:8080
-* Set up MySQL database and configure the connection.
+# Courses:
 
-# Usage
+# Profile:
 
-* Visit the application on http://localhost:3000.
-* Students can register, log in, enroll in courses, complete assessments, track progress and earn certificates.
+# Learnings:
 
+# Course Learning:
+
+# Assessment:
+
+# Certificate:
+
+# Dashboard:
+
+# Add Course:
+
+# Edit Course:
+
+# Add Assessment Questions:
+
+## Deployed Url
+
+Link to Deployed Solution
+
+## Video Url
+
+Link to Demo Video
+
+## Remarks
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
