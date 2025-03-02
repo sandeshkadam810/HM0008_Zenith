@@ -81,7 +81,9 @@ The objective is to create an interactive educational platform that not only hel
 
 ## Learnings:
 
-## Course Progressg:
+## Course Progress and Feedback:
+
+## Course Description:
 
 ## Assessment:
 
