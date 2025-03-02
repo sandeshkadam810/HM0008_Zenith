@@ -72,23 +72,40 @@ The objective is to create an interactive educational platform that not only hel
 ## Screenshots
 
 ## Login:
+![login](https://github.com/user-attachments/assets/ebc7c1ff-e726-4c6c-864e-ea056cd3cb7b)
 
 ## Register:
+![register](https://github.com/user-attachments/assets/ab28ab6e-d059-4a3f-9dbe-6c01156726f8)
 
 ## Courses:
+![courses](https://github.com/user-attachments/assets/5b1a86c9-f872-4bf3-85c7-a34bb8c8a0e3)
 
 ## Profile:
+![profile](https://github.com/user-attachments/assets/31f2fb98-62f1-4e63-ba52-10aa5896dcf6)
 
 ## Learnings:
+![learnings](https://github.com/user-attachments/assets/67d06fb9-6108-4a9c-ab73-9e270b9c7d21)
 
 ## Course Progress and Feedback:
+![progress](https://github.com/user-attachments/assets/141b0987-005a-4185-a7bd-f799ee7e69dc)
 
 ## Course Description:
+![coursedecription](https://github.com/user-attachments/assets/3b59b80f-960e-4d98-839b-3eae7b0d1e6d)
 
 ## Assessment:
+![assessment](https://github.com/user-attachments/assets/4604bdbe-2a8f-4af3-89e9-63036960dd33)
 
 ## Certificate:
+![certificate](https://github.com/user-attachments/assets/019bcf7f-3dac-440f-aaaf-38c73d0461c5)
 
+## Unique Characteristics:
+![characteristics](https://github.com/user-attachments/assets/e0f21048-534a-474c-bdee-fb110cce3cd5)
+
+## Popular Courses:
+![popularcourses](https://github.com/user-attachments/assets/61a3be0b-4d6d-4ef7-a52a-e7880c697abb)
+
+## About Us
+![aboutus](https://github.com/user-attachments/assets/fed3a428-2cb2-4435-a6ef-c400924c0094)
 
 # Deployed Url
 
