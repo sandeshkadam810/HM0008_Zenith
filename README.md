@@ -109,7 +109,7 @@ The objective is to create an interactive educational platform that not only hel
 
 # Deployed Url
 
-Link to Deployed Solution
+[Link to Deployed Solution](https://hm-0008-zenith-e6fb.vercel.app/)
 
 # Video Url
 
