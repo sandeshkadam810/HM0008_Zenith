@@ -6,7 +6,7 @@ HackMatrix_PS002 Problem Statement: Students often face challenges in finding re
 In today's digital era, online learning has become a necessity. However, many platforms lack effective progress tracking, interactive learning, and gamification elements that keep students engaged. The aim of MAPS - Modular Advanced Platform for Students is to provide a comprehensive platform where students can learn, track their progress, take quizzes, and compete globally in a gamified environment.
  
 
-# Features
+## Features
 
 # Student Platform:
 
