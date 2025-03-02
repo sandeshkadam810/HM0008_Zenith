@@ -38,7 +38,7 @@ function Home() {
             MAPS Academy is a leading online learning platform that structures its courses into interactive modules and lessons. Each course includes engaging video lectures, comprehensive reading materials, and assessment quizzes to enhance the learning experience.
           </p>
           <div className="btn">
-            <a className="blue" href="#">
+            <a className="blue" href="#footer">
               Learn More
             </a>
             <a className="yellow" href="/courses">
