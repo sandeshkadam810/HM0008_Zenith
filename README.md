@@ -17,59 +17,89 @@ This competition is gamified, meaning students earn reward credits, which makes 
 The objective is to create an interactive educational platform that not only helps students learn but also encourages participation, competition, and continuous improvement.
 
 
-# Features
+## Features
 
-## Student Platform:
+### Student Platform
+- Track progress, access lessons, and participate in quizzes.
+- Interactive learning experience with assessments.
+- Global quiz matchmaking based on learned concepts, offering gamified rewards (in development).
 
-* Track progress, lessons, and quizzes.
-* Interactive learning experience with assessments.
-* Global quiz matchmaking based on learned concepts, offering gamified rewards.
+### User Management
+- Secure user registration and login functionality.
+- Customizable user profiles with personal details.
 
-## User Management:
+### Course Management
+- Comprehensive course details, including name, instructor, and description.
 
-* User registration and login functionality.
-* User profiles with customizable information.
+### Assessments & Progress Tracking
+- Quizzes to evaluate user knowledge and understanding.
+- Visual representation of progress for better tracking.
 
-## Course Management:
+### Certificate Generation
+- Automated certificate issuance upon course completion.
+- Certificates personalized with user details.
 
-* Course details include name, instructor, and description.
+### Discussion Forum
+- Course-specific discussion forums for peer interaction and knowledge sharing.
 
-## Assessments & Progress Tracking:
+### Gamified Quiz Matchmaking (In Development)
+- Matches students with global peers based on learned topics.
+- Encourages competitive learning and engagement through rewards.
 
-* Users can take quizzes to assess knowledge.
-* Visual representation of progress for users.
+## Technologies Used
 
-## Certificate Generation:
+### Frontend
+- React.js for dynamic user interfaces.
+- Styled using CSS for a responsive and engaging design.
 
-* Automatic certificates upon course completion.
-* Personalized with user details.
+### Backend
+- Spring Boot with a RESTful API architecture for efficient backend operations.
 
-## Discussion Forum:
+### Database
+- MySQL for structured data management.
+- Seven core tables: `course`, `learning`, `progress`, `discussion`, `feedback`, `question`, `user`, and `assessment`.
 
-* Course-specific discussion forums.
+## Installation
 
-## Gamified Quiz Matchmaking: 
-* Matches students with global peers based on topics they have learned, encouraging competitive learning and engagement through rewards 
-(under production).
+### Prerequisites
+Ensure you have the following installed:
+- Node.js & npm
+- Java (JDK 11 or later)
+- MySQL Database
 
-# Technologies Used
+### Setup
+#### Backend Setup (Spring Boot)
+1. Clone the repository:
+   ```sh
+   git clone <repository-url>
+   cd backend
+   ```
+2. Configure the database in `application.properties`:
+   ```properties
+   spring.datasource.url=jdbc:mysql://localhost:3306/your_database
+   spring.datasource.username=root
+   spring.datasource.password=your_password
+   ```
+3. Build and run the application:
+   ```sh
+   mvn spring-boot:run
+   ```
 
-## Frontend:
+#### Frontend Setup (React.js)
+1. Navigate to the frontend folder:
+   ```sh
+   cd frontend
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the development server:
+   ```sh
+   npm start
+   ```
 
-* React.js
-* Styled with CSS
-
-## Backend:
-
-* Spring Boot
-* RESTful API architecture
-
-## Database:
-
-* MySQL
-* Seven tables: course, learning, progress, discussion, feedback, question, user, assessment
-
-## Screenshots
+# Screenshots
 
 ## Login:
 ![login](https://github.com/user-attachments/assets/ebc7c1ff-e726-4c6c-864e-ea056cd3cb7b)
