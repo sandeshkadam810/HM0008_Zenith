@@ -2,7 +2,7 @@
 HackMatrix_PS002 Problem Statement: Students often face challenges in finding relevant job opportunities and managing their application process efficiently. Developing a platform with a personalized dashboard for both students and admins streamlines the job search and application process. Students can create detailed profiles and upload resumes, enhancing their visibility to recruiters. Admins can post opportunities with specific keywords for better searchability. The platform also notifies students about the latest and most relevant opportunities based on their profiles. The objective is to design a user-friendly job portal that simplifies opportunity discovery and application management for students.
 
 # Problem Statement
-
+ 
 In today's world, students often need an engaging and interactive way to track their learning progress and assess their knowledge. Many existing online learning platforms lack effective tools to help students see how much they have learned, where they need improvement, and how they compare with others.
 To solve this, we aim to develop a student-centric platform that makes learning fun, interactive, and engaging. Our platform will offer:
 1.	A Student Platform:
