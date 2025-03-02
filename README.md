@@ -17,7 +17,7 @@ This competition is gamified, meaning students earn reward credits, which makes 
 The objective is to create an interactive educational platform that not only helps students learn but also encourages participation, competition, and continuous improvement.
 
 
-## Features
+# Features
 
 ### Student Platform
 - Track progress, access lessons, and participate in quizzes.
@@ -46,7 +46,7 @@ The objective is to create an interactive educational platform that not only hel
 - Matches students with global peers based on learned topics.
 - Encourages competitive learning and engagement through rewards.
 
-## Technologies Used
+# Technologies Used
 
 ### Frontend
 - React.js for dynamic user interfaces.
@@ -74,13 +74,7 @@ Ensure you have the following installed:
    git clone <repository-url>
    cd backend
    ```
-2. Configure the database in `application.properties`:
-   ```properties
-   spring.datasource.url=jdbc:mysql://localhost:3306/your_database
-   spring.datasource.username=root
-   spring.datasource.password=your_password
-   ```
-3. Build and run the application:
+2. Build and run the application:
    ```sh
    mvn spring-boot:run
    ```
