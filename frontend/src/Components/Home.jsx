@@ -41,7 +41,7 @@ function Home() {
             <a className="blue" href="#">
               Learn More
             </a>
-            <a className="yellow" href="#">
+            <a className="yellow" href="/courses">
               Visit Courses
             </a>
           </div>
@@ -82,7 +82,7 @@ function Home() {
               <img src={c1} alt="" />
               <div className="details">
                 <p>Updated 12/01/25</p>
-                <h6>JavaScript Course</h6>
+                <h6>JavaScript Beginner Course</h6>
                 <div className="star">
                   {[...Array(5)].map((_, index) => (
                     <FontAwesomeIcon key={index} icon={faStar} className="i" />
@@ -90,13 +90,13 @@ function Home() {
                   <p>(239)</p>
                 </div>
               </div>
-              <div className="cost">Rs.499</div>
+              <div className="cost">Rs.500</div>
             </div>
             <div className="courses">
               <img src={c2} alt="" />
               <div className="details">
                 <p>Updated 15/01/25</p>
-                <h6>HTML Foundation Course</h6>
+                <h6>HTML Complete Course</h6>
                 <div className="star">
                   {[...Array(5)].map((_, index) => (
                     <FontAwesomeIcon key={index} icon={faStar} className="i" />
@@ -104,13 +104,13 @@ function Home() {
                   <p>(239)</p>
                 </div>
               </div>
-              <div className="cost">Rs.299</div>
+              <div className="cost">Rs.400</div>
             </div>
             <div className="courses">
               <img src={c3} alt="" />
               <div className="details">
                 <p>Updated 14/01/25</p>
-                <h6>SQL Course</h6>
+                <h6>SQL Beginner Course</h6>
                 <div className="star">
                   {[...Array(5)].map((_, index) => (
                     <FontAwesomeIcon key={index} icon={faStar} className="i" />
@@ -118,13 +118,13 @@ function Home() {
                   <p>(239)</p>
                 </div>
               </div>
-              <div className="cost">Rs.799</div>
+              <div className="cost">Rs.600</div>
             </div>
             <div className="courses">
               <img src={c4} alt="" />
               <div className="details">
                 <p>Updated 18/01/25</p>
-                <h6>Python Full Course</h6>
+                <h6>Python Master Course</h6>
                 <div className="star">
                   {[...Array(5)].map((_, index) => (
                     <FontAwesomeIcon key={index} icon={faStar} className="i" />
@@ -132,13 +132,13 @@ function Home() {
                   <p>(239)</p>
                 </div>
               </div>
-              <div className="cost">Rs.699</div>
+              <div className="cost">Rs.800</div>
             </div>
             <div className="courses">
               <img src={c5} alt="" />
               <div className="details">
                 <p>Updated 12/02/25</p>
-                <h6>Java Fundamentals</h6>
+                <h6>Java Essenstials</h6>
                 <div className="star">
                   {[...Array(5)].map((_, index) => (
                     <FontAwesomeIcon key={index} icon={faStar} className="i" />
@@ -146,13 +146,13 @@ function Home() {
                   <p>(239)</p>
                 </div>
               </div>
-              <div className="cost">Rs.599</div>
+              <div className="cost">Rs.700</div>
             </div>
             <div className="courses">
               <img src={c6} alt="" />
               <div className="details">
                 <p>Updated 12/02/25</p>
-                <h6>CSS Full Course</h6>
+                <h6>CSS Complete Course</h6>
                 <div className="star">
                   {[...Array(5)].map((_, index) => (
                     <FontAwesomeIcon key={index} icon={faStar} className="i" />
@@ -160,49 +160,22 @@ function Home() {
                   <p>(239)</p>
                 </div>
               </div>
-              <div className="cost">Rs.999</div>
+              <div className="cost">Rs.450</div>
             </div>
           </div>
         </section>
         <section id="registration">
           <div className="reminder">
-            <p>Get Online Courses for Free</p>
-            <h1>Sign up to access it</h1>
+            <h1>Information Related to Problem Statement</h1>
+            <br></br>
+            <p>In today's world, students often need an engaging and interactive way to track their learning progress and assess their knowledge. Many existing online learning platforms lack effective tools to help students see how much they have learned, where they need improvement, and how they compare with others.
+To solve this, we have developed a student-centric platform MAPS: Modular Advanced Platform for Students
+ that makes learning fun, interactive, and engaging.</p>
             <div className="time">
-              <div className="date">
-                20
-                <br /> Days
-              </div>
-              <div className="date">
-                15
-                <br /> Hours
-              </div>
-              <div className="date">
-                07
-                <br /> Minutes
-              </div>
-              <div className="date">
-                29
-                <br /> Seconds
-              </div>
+            
             </div>
           </div>
-          {!authToken ? (
-            <div className="form">
-              <h3>Create Free Account NOW!</h3>
-              <input type="text" placeholder="Name" name="" id="" />
-              <input type="text" placeholder="Email" name="" id="" />
-              <input type="password" placeholder="Password" name="" id="" />
-              <input type="number" placeholder="Phone Number" name="" id="" />
-              <div className="btn">
-                <a className="yellow" href="#">
-                  Submit Form
-                </a>
-              </div>
-            </div>
-          ) : (
-            <></>
-          )}
+          
         </section>
         <Footer />
       </div>
