@@ -4,7 +4,7 @@ MAPS - Modular Advanced Platform for Students
 
 # Problem Statement
 
-In today's digital era, online learning has become a necessity. However, many platforms lack effective progress tracking, interactive learning, and gamification elements that keep students engaged. The aim of MAPS - a Learning Management System (LMS) is to provide a comprehensive platform where students can learn, track their progress, take quizzes, and compete globally in a gamified environment.
+In today's digital era, online learning has become a necessity. However, many platforms lack effective progress tracking, interactive learning, and gamification elements that keep students engaged. The aim of MAPS - Modular Advanced Platform for Students is to provide a comprehensive platform where students can learn, track their progress, take quizzes, and compete globally in a gamified environment.
 
 # Understanding the Problem Statement
 
@@ -25,7 +25,7 @@ In today's digital era, online learning has become a necessity. However, many pl
 
 # Overview
 
-MAPS is a Learning Management System (LMS) designed for students to access courses, take quizzes, track their progress, and engage in a gamified quiz matchmaking system. 
+MAPS is a Modular Advanced Platform for Students designed for students to access courses, take quizzes, track their progress, and engage in a gamified quiz matchmaking system. 
 
 # Features
 
